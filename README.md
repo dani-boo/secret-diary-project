@@ -21,3 +21,9 @@ SecretDiary
   - get_entries
   
 ```
+
+**Diagrams for both:**
+
+![alt text](http://res.cloudinary.com/dani-devs-and-designs/image/upload/v1531826864/OOC__Encapsulation_Cohesion_nfnkv5.jpg)
+
+http://res.cloudinary.com/dani-devs-and-designs/image/upload/v1531826864/OOC__Encapsulation_Cohesion_nfnkv5.jpg
