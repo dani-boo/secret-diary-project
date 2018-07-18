@@ -24,7 +24,7 @@ SecretDiary
 
 **Diagrams for both:**
 
-![alt text](http://res.cloudinary.com/dani-devs-and-designs/image/upload/v1531826864/OOC__Encapsulation_Cohesion_nfnkv5.jpg)
+![alt text](http://res.cloudinary.com/dani-devs-and-designs/image/upload/v1531908112/OOC__Encapsulation_Cohesion_1_g3db4h.jpg)
 
 ----------------------
 
@@ -51,4 +51,4 @@ end
 
 **Calculator diagram:**
 
-![alt text](http://res.cloudinary.com/dani-devs-and-designs/image/upload/v1531833387/Calculator_Diagram_elv4tz.jpg)
+![alt text](http://res.cloudinary.com/dani-devs-and-designs/image/upload/v1531909441/Calculator_Diagram_z4etth.jpg)
