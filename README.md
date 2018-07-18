@@ -24,7 +24,7 @@ SecretDiary
 
 **Diagrams for both:**
 
-![alt text](http://res.cloudinary.com/dani-devs-and-designs/image/upload/v1531908112/OOC__Encapsulation_Cohesion_1_g3db4h.jpg)
+![alt text](http://res.cloudinary.com/dani-devs-and-designs/image/upload/v1531911853/OOC__Encapsulation_Cohesion_ap91lo.jpg)
 
 ----------------------
 
