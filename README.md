@@ -1,5 +1,11 @@
 # Object Oriented Code 1, Encapsulation & Cohesion
 
+*Makers Week 2: learning to organise code*
+
+![alt text](http://res.cloudinary.com/dani-devs-and-designs/image/upload/v1531991951/cohesion_ozukz0.png)
+
+![alt text](http://res.cloudinary.com/dani-devs-and-designs/image/upload/v1531991963/cohesion_antonymn_y8z7fg.png)
+
 ## Exercise 1
 
 **Use a diagram to group the methods in these examples:**
