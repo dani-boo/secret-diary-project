@@ -89,6 +89,8 @@ end
 
 **Test-drive the secret diary example:**
 
+**Features:**
+
 ```
 SecretDiary
   - lock
